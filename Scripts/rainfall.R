@@ -1,3 +1,5 @@
+## This script is to compute rainfall from reflectivity as a method
+
 # library(parallel)
 # library(foreach)
 # library(doParallel)
